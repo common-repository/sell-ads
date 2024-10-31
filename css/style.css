@@ -1,0 +1,25 @@
+.wpsap_ads_plugin_ads_box {
+    width: 100%;
+    background-color: #f0f1f2;
+    border-radius: 0px !important;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 20px 40px 20px;
+}
+
+button.wpsap_ads_plugin_ads_box_btn {
+    background-color: #000;
+    color: #fff;
+    border-radius: 3px;
+    padding: 5px 20px 5px 20px;
+    border: none;
+    cursor: pointer;
+}
+
+.wpsap_ads_plugin_ads_box_title {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 24px;
+}
